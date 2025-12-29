@@ -1,0 +1,8 @@
+{
+  "name": "FocusPrompter RSVP",
+  "description": "A high-performance Rapid Serial Visual Presentation (RSVP) teleprompter designed to minimize eye movement and prevent the appearance of reading on camera.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
